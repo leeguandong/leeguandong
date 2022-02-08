@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <p align="center"> <
-![](https://github-readme-stats.vercel.app/api?username=leeguandong&show_icons=true&theme=default&hide=contribs,issues)
- />
+![](https://github-readme-stats.vercel.app/api?username=leeguandong)
+/>
