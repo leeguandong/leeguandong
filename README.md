@@ -10,13 +10,13 @@
         <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fgithub%2Fleeguandong&query=count&color=181717&label=GitHub&labelColor=282c34&logo=github&suffix=+follows&cacheSeconds=3600" align="bottom"/>
     </a>
     <a href="https://liguandong.blog.csdn.net">
-        <img src="https://img.shields.io/badge/CSDN-12453%20%E5%85%B3%E6%B3%A8-red" align="bottom"/>
+        <img src="https://img.shields.io/badge/CSDN-12568%20%E5%85%B3%E6%B3%A8-red" align="bottom"/>
     </a>
     <a href="https://scholar.google.com/citations?user=on_b6MMAAAAJ">
-        <img src="https://img.shields.io/badge/Google%20Scholar%20Citations-475-yellow" align="bottom"/>
+        <img src="https://img.shields.io/badge/Google%20Scholar%20Citations-484-yellow" align="bottom"/>
     </a>
     <a href="https://openart.ai/workflows/profile/leeguandong">
-        <img src="https://img.shields.io/badge/OpenArt%20Downloads-87088-green" align="bottom"/>
+        <img src="https://img.shields.io/badge/OpenArt%20Downloads-118680-green" align="bottom"/>
     </a>
 </p>
 
