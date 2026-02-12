@@ -13,10 +13,10 @@
         <img src="https://img.shields.io/badge/CSDN-12568%20%E5%85%B3%E6%B3%A8-red" align="bottom"/>
     </a>
     <a href="https://scholar.google.com/citations?user=on_b6MMAAAAJ">
-        <img src="https://img.shields.io/badge/Google%20Scholar%20Citations-484-yellow" align="bottom"/>
+        <img src="https://img.shields.io/badge/Google%20Scholar%20Citations-512-yellow" align="bottom"/>
     </a>
     <a href="https://openart.ai/workflows/profile/leeguandong">
-        <img src="https://img.shields.io/badge/OpenArt%20Downloads-118680-green" align="bottom"/>
+        <img src="https://img.shields.io/badge/OpenArt%20Downloads-136456-green" align="bottom"/>
     </a>
 </p>
 
