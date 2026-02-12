@@ -30,8 +30,8 @@
 
 <p align="center">  
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leeguandong&theme=nord_bright" alt="Profile Details">
-  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leeguandong&theme=nord_bright" alt="Statistics"> -->
-  <img src="https://github-readme-stats.vercel.app/api?username=leeguandong&show_icons=true" alt="Statistics" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=leeguandong&show_icons=true" alt="Statistics" /> -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leeguandong&theme=nord_bright" alt="Statistics">
   <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leeguandong&theme=nord_bright" alt="Repositories per Language"> -->
   <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=leeguandong&theme=nord_bright" alt="Most Commits Language" style="display:none;">  -->
 </p>
