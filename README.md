@@ -24,7 +24,7 @@
 <p align="center">
   <a href="https://scholar.google.com/citations?user=on_b6MMAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4.svg?style=for-the-badge&logo=Google-Scholar&logoColor=white" align="bottom"/></a>
   <a href="https://www.zhihu.com/people/li-xin-52-81"><img src="https://img.shields.io/badge/Zhihu-0084FF.svg?style=for-the-badge&logo=Zhihu&logoColor=white" align="bottom"/></a>
-  <a href="https://liguandong.blog.csdn.net"><img src="https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white" align="bottom"/></a>
+  <a href="https://liguandong.blog.csdn.net"><img src="https://img.shields.io/badge/CSDN-FC5531.svg?style=for-the-badge&logo=C&logoColor=white" align="bottom"/></a>
   <a href="https://leeguandong.github.io/"><img src="https://img.shields.io/badge/Website-FF5722.svg?style=for-the-badge&logo=About.me&logoColor=white" align="bottom"/></a>
 </p>
 
