@@ -16,7 +16,7 @@
         <img src="https://img.shields.io/badge/Google%20Scholar%20Citations-532-yellow" align="bottom"/>
     </a>
     <a href="https://openart.ai/workflows/profile/leeguandong">
-        <img src="https://img.shields.io/badge/OpenArt%20Downloads-137682-green" align="bottom"/>
+        <img src="https://img.shields.io/badge/OpenArt%20Downloads-137798-green" align="bottom"/>
     </a>
 </p>
 
