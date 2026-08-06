@@ -1,39 +1,64 @@
-  <h3 align="center">李冠东｜Guandong Li <img src="./resources/Hi.gif" width="29px"> </h3>
+<div align="center">
+
+<h1>Hi, I'm Guandong Li · 李冠东 <img src="./resources/Hi.gif" width="30" alt="Waving hand"></h1>
+
+<p>
+  AI Researcher & Developer<br>
+  Computer Vision · Multimodal AI · AIGC · Remote Sensing
 </p>
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=4C8EDA&center=true&vCenter=true&width=680&lines=Turning+research+into+practical+AI+systems;Exploring+vision%2C+generation%2C+and+multimodal+intelligence;Building+and+sharing+open-source+tools" alt="Typing introduction">
 
-<p align="center">
-    <a href="https://github.com/leeguandong">
-        <img src="https://visitor-badge.laobi.icu/badge?page_id=https://github.com/leeguandong" align="bottom"/>
-    </a>
-    <a href="https://github.com/leeguandong">
-        <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fgithub%2Fleeguandong&query=count&color=181717&label=GitHub&labelColor=282c34&logo=github&suffix=+follows&cacheSeconds=3600" align="bottom"/>
-    </a>
-    <a href="https://liguandong.blog.csdn.net">
-        <img src="https://img.shields.io/badge/CSDN-12568%20%E5%85%B3%E6%B3%A8-red" align="bottom"/>
-    </a>
-    <a href="https://scholar.google.com/citations?user=on_b6MMAAAAJ">
-        <img src="https://img.shields.io/badge/Google%20Scholar%20Citations-585-yellow" align="bottom"/>
-    </a>
-    <a href="https://openart.ai/workflows/profile/leeguandong">
-        <img src="https://img.shields.io/badge/OpenArt%20Downloads-139014-green" align="bottom"/>
-    </a>
+<p>
+  <a href="https://leeguandong.github.io/"><img src="https://img.shields.io/badge/Website-FF5722?style=flat-square&logo=aboutdotme&logoColor=white" alt="Website"></a>
+  <a href="https://scholar.google.com/citations?user=on_b6MMAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
+  <a href="https://liguandong.blog.csdn.net/"><img src="https://img.shields.io/badge/CSDN-FC5531?style=flat-square&logo=c&logoColor=white" alt="CSDN"></a>
+  <a href="https://openart.ai/workflows/profile/leeguandong"><img src="https://img.shields.io/badge/OpenArt-7C3AED?style=flat-square&logo=artstation&logoColor=white" alt="OpenArt"></a>
 </p>
 
-
-<p align="center">
-  <a href="https://scholar.google.com/citations?user=on_b6MMAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-4285F4.svg?style=for-the-badge&logo=Google-Scholar&logoColor=white" align="bottom"/></a>
-  <a href="https://www.zhihu.com/people/li-xin-52-81"><img src="https://img.shields.io/badge/Zhihu-0084FF.svg?style=for-the-badge&logo=Zhihu&logoColor=white" align="bottom"/></a>
-  <a href="https://liguandong.blog.csdn.net"><img src="https://img.shields.io/badge/CSDN-FC5531.svg?style=for-the-badge&logo=C&logoColor=white" align="bottom"/></a>
-  <a href="https://leeguandong.github.io/"><img src="https://img.shields.io/badge/Website-FF5722.svg?style=for-the-badge&logo=About.me&logoColor=white" align="bottom"/></a>
+<p>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=leeguandong.leeguandong" alt="Profile views">
+  <a href="https://github.com/leeguandong?tab=followers"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fleeguandong&query=followers&label=followers&logo=github&color=181717&cacheSeconds=3600" alt="GitHub followers"></a>
+  <a href="https://github.com/leeguandong?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fleeguandong&query=public_repos&label=public%20repos&logo=github&color=4C8EDA&cacheSeconds=3600" alt="Public repositories"></a>
 </p>
 
-<p align="center">  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leeguandong&theme=nord_bright" alt="Profile Details">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=leeguandong&show_icons=true" alt="Statistics" /> -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leeguandong&theme=nord_bright" alt="Statistics">
-  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leeguandong&theme=nord_bright" alt="Repositories per Language"> -->
-  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=leeguandong&theme=nord_bright" alt="Most Commits Language" style="display:none;">  -->
-</p>
+</div>
 
+## About me
 
+- 🤖 I build applied AI systems with a focus on computer vision, OCR, AIGC, LLMs, and multimodal models.
+- 🛰️ My research background includes hyperspectral remote-sensing image processing and deep learning.
+- 🎨 I create and share generative-AI workflows on OpenArt and write practical AI notes on CSDN.
+- 🔭 I enjoy turning new research into reproducible code, useful tools, and real-world products.
+
+## Featured work
+
+| Project | What it offers | Stars |
+| --- | --- | --- |
+| [Awesome Chinese Stable Diffusion](https://github.com/leeguandong/Awesome-Chinese-Stable-Diffusion) | A curated collection of Chinese text-to-image models and resources. | [![Stars](https://img.shields.io/github/stars/leeguandong/Awesome-Chinese-Stable-Diffusion?style=flat-square&label=)](https://github.com/leeguandong/Awesome-Chinese-Stable-Diffusion/stargazers) |
+| [Interview Code Practice · Python](https://github.com/leeguandong/Interview-code-practice-python) | Python solutions and notes for technical interview preparation. | [![Stars](https://img.shields.io/github/stars/leeguandong/Interview-code-practice-python?style=flat-square&label=)](https://github.com/leeguandong/Interview-code-practice-python/stargazers) |
+| [XrayQwenVL](https://github.com/leeguandong/XrayQwenVL) | A Qwen-VL fine-tuning project for multimodal X-ray recognition. | [![Stars](https://img.shields.io/github/stars/leeguandong/XrayQwenVL?style=flat-square&label=)](https://github.com/leeguandong/XrayQwenVL/stargazers) |
+| [3D DenseNet for HSI](https://github.com/leeguandong/3D-DenseNet-for-HSI) | A 3D densely connected network for hyperspectral image classification. | [![Stars](https://img.shields.io/github/stars/leeguandong/3D-DenseNet-for-HSI?style=flat-square&label=)](https://github.com/leeguandong/3D-DenseNet-for-HSI/stargazers) |
+| [Paper Learning](https://github.com/leeguandong/Paper-Learning) | Research notes spanning remote sensing, OCR, document forensics, and visual generation. | [![Stars](https://img.shields.io/github/stars/leeguandong/Paper-Learning?style=flat-square&label=)](https://github.com/leeguandong/Paper-Learning/stargazers) |
+
+## GitHub activity
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leeguandong&theme=github_dark">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leeguandong&theme=nord_bright" alt="Guandong Li's GitHub activity overview">
+  </picture>
+  <br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leeguandong&theme=github_dark">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leeguandong&theme=nord_bright" alt="Guandong Li's GitHub statistics">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leeguandong&theme=github_dark">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leeguandong&theme=nord_bright" alt="Repositories by language">
+  </picture>
+</div>
+
+<div align="center">
+  <sub>Thanks for visiting — feel free to explore, star, or open an issue.</sub>
+</div>
