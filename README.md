@@ -17,9 +17,8 @@
 </p>
 
 <p>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=leeguandong.leeguandong" alt="Profile views">
-  <a href="https://github.com/leeguandong?tab=followers"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fleeguandong&query=followers&label=followers&logo=github&color=181717&cacheSeconds=3600" alt="GitHub followers"></a>
-  <a href="https://github.com/leeguandong?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fleeguandong&query=public_repos&label=public%20repos&logo=github&color=4C8EDA&cacheSeconds=3600" alt="Public repositories"></a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=https://github.com/leeguandong" alt="Profile views">
+  <a href="https://github.com/leeguandong?tab=followers"><img src="https://img.shields.io/github/followers/leeguandong?label=followers&style=flat" alt="GitHub followers"></a>
 </p>
 
 </div>
@@ -44,19 +43,9 @@
 ## GitHub activity
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leeguandong&theme=github_dark">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leeguandong&theme=nord_bright" alt="Guandong Li's GitHub activity overview">
-  </picture>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leeguandong&theme=nord_bright" alt="Profile details">
   <br>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leeguandong&theme=github_dark">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leeguandong&theme=nord_bright" alt="Guandong Li's GitHub statistics">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leeguandong&theme=github_dark">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leeguandong&theme=nord_bright" alt="Repositories by language">
-  </picture>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leeguandong&theme=nord_bright" alt="GitHub statistics">
 </div>
 
 <div align="center">
