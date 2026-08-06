@@ -23,23 +23,6 @@
 
 </div>
 
-## About me
-
-- 🤖 I build applied AI systems with a focus on computer vision, OCR, AIGC, LLMs, and multimodal models.
-- 🛰️ My research background includes hyperspectral remote-sensing image processing and deep learning.
-- 🎨 I create and share generative-AI workflows on OpenArt and write practical AI notes on CSDN.
-- 🔭 I enjoy turning new research into reproducible code, useful tools, and real-world products.
-
-## Featured work
-
-| Project | What it offers | Stars |
-| --- | --- | --- |
-| [Awesome Chinese Stable Diffusion](https://github.com/leeguandong/Awesome-Chinese-Stable-Diffusion) | A curated collection of Chinese text-to-image models and resources. | [![Stars](https://img.shields.io/github/stars/leeguandong/Awesome-Chinese-Stable-Diffusion?style=flat-square&label=)](https://github.com/leeguandong/Awesome-Chinese-Stable-Diffusion/stargazers) |
-| [Interview Code Practice · Python](https://github.com/leeguandong/Interview-code-practice-python) | Python solutions and notes for technical interview preparation. | [![Stars](https://img.shields.io/github/stars/leeguandong/Interview-code-practice-python?style=flat-square&label=)](https://github.com/leeguandong/Interview-code-practice-python/stargazers) |
-| [XrayQwenVL](https://github.com/leeguandong/XrayQwenVL) | A Qwen-VL fine-tuning project for multimodal X-ray recognition. | [![Stars](https://img.shields.io/github/stars/leeguandong/XrayQwenVL?style=flat-square&label=)](https://github.com/leeguandong/XrayQwenVL/stargazers) |
-| [3D DenseNet for HSI](https://github.com/leeguandong/3D-DenseNet-for-HSI) | A 3D densely connected network for hyperspectral image classification. | [![Stars](https://img.shields.io/github/stars/leeguandong/3D-DenseNet-for-HSI?style=flat-square&label=)](https://github.com/leeguandong/3D-DenseNet-for-HSI/stargazers) |
-| [Paper Learning](https://github.com/leeguandong/Paper-Learning) | Research notes spanning remote sensing, OCR, document forensics, and visual generation. | [![Stars](https://img.shields.io/github/stars/leeguandong/Paper-Learning?style=flat-square&label=)](https://github.com/leeguandong/Paper-Learning/stargazers) |
-
 ## GitHub activity
 
 <div align="center">
