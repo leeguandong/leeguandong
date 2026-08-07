@@ -26,9 +26,9 @@
 ## GitHub activity
 
 <div align="center">
-  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leeguandong&theme=nord_bright" alt="GitHub activity overview">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leeguandong&theme=nord_bright" alt="GitHub statistics">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leeguandong&theme=nord_bright" alt="Repositories by language">
+  <img width="82%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leeguandong&theme=nord_bright" alt="GitHub activity overview">
+  <img width="41%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=leeguandong&theme=nord_bright" alt="GitHub statistics">
+  <img width="41%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=leeguandong&theme=nord_bright&utcOffset=8" alt="Productive time in UTC+8">
 </div>
 
 <div align="center">
