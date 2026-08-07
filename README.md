@@ -13,7 +13,7 @@
   <a href="https://leeguandong.github.io/"><img src="https://img.shields.io/badge/Website-FF5722?style=flat-square&logo=aboutdotme&logoColor=white" alt="Website"></a>
   <a href="https://scholar.google.com/citations?user=on_b6MMAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar"></a>
   <a href="https://liguandong.blog.csdn.net/"><img src="https://img.shields.io/badge/CSDN-FC5531?style=flat-square&logo=c&logoColor=white" alt="CSDN"></a>
-  <a href="https://openart.ai/workflows/profile/leeguandong"><img src="https://img.shields.io/badge/OpenArt-7C3AED?style=flat-square&logo=artstation&logoColor=white" alt="OpenArt"></a>
+  <a href="https://www.zhihu.com/people/li-xin-52-81"><img src="https://img.shields.io/badge/Zhihu-0084FF?style=flat-square&logo=zhihu&logoColor=white" alt="Zhihu"></a>
 </p>
 
 <p>
